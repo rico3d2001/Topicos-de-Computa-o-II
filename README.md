@@ -1,2 +1,2 @@
-# Topicos-de-Computa-o-II
-Aprendizagem GitHub
+# Topicos-de-Computacao-II
+Ambiente de demonstração da disciplina
